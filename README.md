@@ -1,10 +1,11 @@
 # SAP-HANA
-This repository contains SAP Notes on HANA in-memory database authored by me.
+This repository contains SAP Notes on HANA in-memory database authored by me.   
 
-| TYPE |Note No. | URL | Hyperlink|
-| -----|---------|-----|----------|
-|Public|3379624|https://i7p.wdf.sap.corp/sap/support/notes/3379624| [2997917](https://github.com/jeans-all/SAP-Notes/blob/main/2997917%20-%20Incorrect%20SELECT%20Result%20from%20Calculation%20View%20When%20Calculated%20Column%20with%20String%20Function%20Is%20Compared%20with%20Non-String%20Constant%20Value.pdf) |
+In order to check the lastest version of SAP Notes below, you must hold a valid SAP account that allows you to access to SAP Portal. 
 
+| TYPE |Note No. | URL |
+| -----|---------|-----|
+|Public|3379624|https://i7p.wdf.sap.corp/sap/support/notes/3379624| 
 |Public|3369799|https://i7p.wdf.sap.corp/sap/support/notes/3369799|
 |Public|3351371|https://i7p.wdf.sap.corp/sap/support/notes/3351371|
 |Public|3304554|https://i7p.wdf.sap.corp/sap/support/notes/3304554|
